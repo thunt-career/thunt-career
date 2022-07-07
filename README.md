@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Travis.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning a little bit of everything all of time.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me ... don't.
+
 
 <!---
 thunt-career/thunt-career is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
