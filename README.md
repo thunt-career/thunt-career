@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Travis.
-- 👀 I’m interested in data science.
 - 🌱 I’m currently learning a little bit of everything all of time.
 
 
